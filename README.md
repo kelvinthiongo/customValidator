@@ -9,7 +9,7 @@ As the name suggests, you must have jquery.
 Download these files and add the js script tag below just above the closing body tag.
 
 ```html
-<script src="/employer/js/customValidator.js"></script>
+<script src="/path-to-js/customValidator.js"></script>
 ```
 
 add the link tag below in the <head>.
