@@ -6,7 +6,7 @@ As the name suggests, you must have jquery.
 
 ## Installing Custom Jquery Validator
 
-Download these files and add the js script tag below just above the closing tag.
+Download these files and add the js script tag below just above the closing body tag.
 
 ```html
 <script src="/employer/js/customValidator.js"></script>
@@ -38,7 +38,7 @@ e.g.
 var response = validateForm(".form-container");
 ```
 
-The function returns false if empty 'required fields are detected, otherwise, it returns true.
+The function returns false if empty "required" fields are detected, otherwise, it returns true.
 
 You should return null if response is false
 eg.
