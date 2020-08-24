@@ -6,7 +6,7 @@ As the name suggests, you must have jquery.
 
 ## Installing Custom Jquery Validator
 
-Download these files and add the js script tag below just above the </body> tag.
+Download these files and add the js script tag below just above the closing tag.
 
 ```html
 <script src="/employer/js/customValidator.js"></script>
